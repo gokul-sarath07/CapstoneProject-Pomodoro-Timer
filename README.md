@@ -1,6 +1,6 @@
 # Capstone Project - Pomodoro Timer
 
-## Python Package Used
+### Python Package Used
 - Tkinter.
 
 ## Description
