@@ -15,7 +15,6 @@
 
 ## Prototype
 
-### Front
 <img src="https://github.com/gokul-sarath07/CapstoneProject-Pomodoro-Timer/blob/main/support_files/Start.JPG" alt="Start">
 
 ### Work
